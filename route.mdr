@@ -1,0 +1,20 @@
+:::tracker{species="Sobble" baseStats="[[50, 40, 40, 70, 40, 70], [65, 60, 55, 95, 55, 90]"}
+5:
+  6 -> 0, 0, 1, 0, 0, 0 # Wooloo (1 Def)
+  7 -> 0, 0, 1, 0, 0, 1 # Scorbunny (1 Spe)
+  8 -> 1, 0, 2, 0, 0, 1 # Wooloo (1 Def), Skwovet (1 HP)
+  9 -> 1, 0, 2, 0, 2, 1 # Blipbug (1 SpD), Nickit (1 SpD)
+  10 -> 1, 0, 3, 0, 2, 2 # Wooloo (1 Def), Scorbunny (1 Spe)
+  11 -> 1, 0, 4, 0, 2, 3 # Rookidee (1 Spe), Onix (1 Def)
+  12 -> 1, 0, 4, 0, 2, 3
+  13 -> 2, 0, 4, 0, 2, 3 # Slowpoke (1 HP)
+  14 -> 3, 1, 4, 1, 2, 3 # Abra (1 SpA), Slowpoke (1 HP), Mienfoo (1 Atk)
+  15 -> 3, 2, 4, 1, 2, 3 # Shinx (1 Atk)
+  16 -> 5, 2, 4, 1, 2, 3 # Slowpoke (1 HP), Slowpoke (1 HP)
+  17 -> 6, 2, 4, 1, 2, 3 # Slowpoke (1 HP)
+  18 -> 7, 2, 4, 3, 2, 3 # Slowpoke (1 HP), Kadabra (2 SpA)
+  19 -> 7, 2, 4, 3, 2, 4 # Woobat (1 Spe)
+  20 -> 7, 2, 4, 5, 2, 5 # Ponyta (1 Spe), Kadabra (2 SpA)
+  21 -> 7, 2, 4, 5, 2, 7 # Swoobat (2 Spe)
+:::
+
